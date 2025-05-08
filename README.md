@@ -1,4 +1,4 @@
-## Jailbreaking_Deep_Models Experiment detail
+## Jailbreaking_Deep_Models Experiment details
 
 1. **Dataset Ingestion & Preprocessing**  
    - **Unzip & Inspect**: Extract `TestDataSet.zip` into `./TestDataSet/TestDataSet/` and verify class indices 401–500 via `labels_list.json`.  
